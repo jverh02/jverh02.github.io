@@ -1,0 +1,1 @@
+import{U as e}from"./UserDisplay.30637b02.js";import{F as t,G as a}from"./index.cbbb2eee.js";const u={__name:"IndexPage",props:{currentTab:String},setup(r){return(n,c)=>(t(),a(e,{"current-tab":r.currentTab},null,8,["current-tab"]))}};export{u as default};
